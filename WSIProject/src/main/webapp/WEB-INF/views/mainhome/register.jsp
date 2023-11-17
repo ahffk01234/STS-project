@@ -281,7 +281,7 @@ $(function() {
            b_no: [id],
         	};
 
-        let serviceKey ="uJswIc4BpkgJM133aej4HAQn%2FTwRTFGhwHPw4SEV%2BHXRQzQ1nTXS5p%2F5Ec54CalGU7tejWp%2Fo%2BVnE0pvmDwdjQ%3D%3D";
+        let serviceKey ="KEY";
         $.ajax({
           url:
             "https://api.odcloud.kr/api/nts-businessman/v1/status?serviceKey=" +

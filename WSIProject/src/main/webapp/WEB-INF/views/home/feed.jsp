@@ -474,7 +474,7 @@ $(function(){
 		});
 		
 		//////////////////////////// 날씨 api ///////////////////////////////////////////
-		let key = "59711f7ca4c18930d18e07d3896036d1";		// 날씨 api 시리얼키
+		let key = "KEY";		// 날씨 api 시리얼키
 		
 		let result1 = document.getElementById("result1");
 		
